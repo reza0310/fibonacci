@@ -1,0 +1,12 @@
+Fibonacci de 10 effectué en 0.0 secondes. Nombre de caractères: 2.
+Fibonacci de 100 effectué en 0.0 secondes. Nombre de caractères: 21.
+Fibonacci de 1000 effectué en 0.0 secondes. Nombre de caractères: 209.
+Fibonacci de 10000 effectué en 0.0019948482513427734 secondes. Nombre de caractères: 2090.
+Fibonacci de 100000 effectué en 0.09078550338745117 secondes. Nombre de caractères: 20899.
+Fibonacci de 1000000 effectué en 7.561756610870361 secondes. Nombre de caractères: 208988.
+Fibonacci de 10000000 effectué en 749.6564218997955 secondes. Nombre de caractères: 2089877.
+Fibonacci de 10 effectué en 0.0 secondes. Nombre de caractères: 2.
+Fibonacci de 100 effectué en 0.0 secondes. Nombre de caractères: 21.
+Fibonacci de 1000 effectué en 0.0 secondes. Nombre de caractères: 209.
+Fibonacci de 10000 effectué en 0.0019943714141845703 secondes. Nombre de caractères: 2090.
+Fibonacci de 100000 effectué en 0.09078836441040039 secondes. Nombre de caractères: 20899.
