@@ -47,7 +47,7 @@ Aucune question ne nous a encore été posée.
 reza0310: [page de contact](https://github.com/reza0310#a-propos-de-mon-profil).
 
 ## License
-Lisez le [fichier "LICENSE"](https://github.com/reza0310/Steganographie/blob/main/LICENSE) (en anglais).
+Lisez le [fichier "LICENSE"](https://github.com/reza0310/fibonacci/blob/main/LICENSE) (en anglais).
 
 ### Dernière mise à jour de la documentation 
 Mercredi 2 mars 2022
